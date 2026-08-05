@@ -3,7 +3,7 @@
 Public marketing site for **Zipp**, a cross-border payment automation platform for Latin American SME importers paying European suppliers.
 
 **Live:** [tryzipp.com](https://tryzipp.com)
-**Product app:** `app.tryzipp.com` *(coming Q3 2026)*
+**Product app:** [app.tryzipp.com](https://app.tryzipp.com)
 
 ## Stack
 
